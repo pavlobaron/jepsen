@@ -1,5 +1,3 @@
--
-
 # Jepsen
 
 Breaking distributed systems so you don't have to.
